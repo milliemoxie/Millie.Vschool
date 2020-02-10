@@ -1,0 +1,128 @@
+/* France */
+.france {
+    height: 400px;
+    width: 350px;
+    display: inline-block;
+    position: absolute;
+}
+.bluefr {
+    height: 210px;
+    width: 100px;
+    background-color: blue;
+    float: left;
+}
+.whitefr {
+    height: 210px;
+    width: 100px;
+    background-color: white;
+    float: left;
+}
+.redfr {
+    height: 210px;
+    width: 100px;
+    background-color: red;
+    float: left;
+}
+/* Germany */
+.Germany {
+    height: 400px;
+    width: 350px;
+    display: inline-block;
+    position: relative;
+    left: 15px;
+    
+}
+.blackge {
+    width: 330px;
+    height: 70px;
+    background-color: black;
+    display: block;
+}
+.redge {
+    width: 330px;
+    height: 70px;
+    background-color: red; 
+    display: block;
+}
+.yellowge {
+    width: 330px;
+    height: 70px;
+    background-color: gold;
+    display: block;
+}
+.Madagascar {
+    height: 400px;
+    width: 350px;
+    display: inline-block;
+    position: relative;
+    left: 15px;
+
+}
+.redma {
+    width: 330px;
+    height: 105px;
+    background-color: rgb(211, 44, 44);
+    display: block
+}
+.greenma {
+    width: 330px;
+    height: 105px;
+    background-color: rgb(13, 104, 13);
+    display: block;
+}
+.Swiss {
+height: 400px;
+width: 350px;
+display: inline-block;
+position: relative;
+left: 15px;
+}
+.redsw {
+    width: 210px;
+    height: 210px;
+    background-color: red;
+    position: absolute;
+}
+.whitesw {
+    width: 40px;
+    height: 120px;
+    background-color: white;
+    position: absolute;
+    top: 45px;
+    left: 85px;
+}
+.whitesw2 {
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    position: absolute;
+    top: 85px;
+    left: 45px;
+
+}
+.Sweden {
+    height: 400px;
+    width: 350px;
+    display: inline-block;
+    position: relative;
+}
+.aquasw {
+    width: 330px;
+    height: 210px;
+    background-color: rgb(8, 135, 185);
+    position: absolute;
+}
+.goldsw {
+    width: 330px;
+    height: 42px;
+    background-color: gold;
+    position: absolute;
+    top: 85px;
+}
+.goldsw2 {
+    width: 42px;
+    height: 210px;
+    background-color: gold;
+    position: absolute;
+    left: 84px;
+}

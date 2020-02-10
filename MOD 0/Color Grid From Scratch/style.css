@@ -1,0 +1,49 @@
+
+.pinkblock {
+    box-sizing: border-box; 
+    font-size: 0px;
+    background-color: #F5C6D6;
+    border: thick white solid;
+    border-radius: 15px;
+    height: 150px;
+    width: 100%;
+    float: left;
+}
+.magentablock {
+    box-sizing: border-box; 
+    font-size: 0px;
+    background-color: #EE2E84;
+    border: thick white solid;
+    border-radius: 15px;
+    height: 150px;
+    width: 25%;
+    float: left;}
+.cyanblock {
+    box-sizing: border-box; 
+    font-size: 0px;
+    background-color: #85CFD8;
+    border: thick white solid;
+    border-radius: 15px;
+    height: 150px;
+    width: 50%;
+    float: left;
+}
+.greenblock {
+    box-sizing: border-box; 
+    font-size: 0px;
+    background-color: #8DC63F;
+    border: thick white solid;
+    border-radius: 15px;
+    height: 150px;
+    width: 75%;
+    float: left;}
+.orangeblock {
+    box-sizing: border-box; 
+    font-size: 0px;
+    background-color: #E76E34;
+    border: thick white solid;
+    border-radius: 15px;
+    height: 150px;
+    width: 25%;
+float: left;
+}
